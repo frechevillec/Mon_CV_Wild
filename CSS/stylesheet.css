@@ -1,0 +1,77 @@
+body 
+{
+	background: rgb(104,187,285);
+}
+
+div 
+{
+	border-radius: 10px;
+	margin: 5px;
+}
+
+div#body
+{
+	margin : auto;
+	width : 1200px;
+}
+
+div#header
+{
+	background: #9fa9a3;
+	color:#ffffff;
+}
+
+div#container
+{
+	background: #9fa9a3;
+	width: 100%;
+}
+
+div#left-box
+{
+	background: rgb(9,30,45);
+	color:#fff;
+	float: left;
+	width: 380px;
+    height: 620px;
+}
+
+div#right-box
+{
+	background: rgb(9,30,45);
+	float: right;
+    width: 800px;
+}
+
+img.photo
+{
+	width: 200px;
+	display: block;
+	margin: auto;
+}
+
+
+div#experiences-box
+{
+	background: #fff;
+}
+
+div#studies-box
+{
+	background: #fff;
+}
+
+h1, h2 
+{
+	margin: 0px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+div#footer 
+{
+ 	height: 50px;
+    background: #9fa9a3;
+	color:#ffffff;
+    clear: both;
+}
